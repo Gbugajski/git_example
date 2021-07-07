@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("gałąź junior_feature");
         System.out.println("test");
         System.out.println("gałąź junior v1");
+        System.out.println("gałąź junior v2");
     }
 }
