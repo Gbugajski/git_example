@@ -3,8 +3,6 @@ public class Hello {
         System.out.println("hello");
         System.out.println("gałąź junior_feature");
         System.out.println("test");
-        System.out.println("gałąź junior v1");
-        System.out.println("gałąź junior v2");
-        System.out.println("Gałąź master");
+        System.out.println("porządek");
     }
 }
