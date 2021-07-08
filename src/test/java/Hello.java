@@ -6,5 +6,8 @@ public class Hello {
         System.out.println("gałąź junior v1");
         System.out.println("gałąź junior v2");
         System.out.println("Gałąź master");
+        System.out.println("push gałąź master");
+        System.out.println("mała zmiana github");
+        System.out.println("zmiana na new_branch");
     }
 }
